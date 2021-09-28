@@ -9,7 +9,8 @@
 
 - 📝 I regularly write articles on [https://berkegokmen1.medium.com](https://berkegokmen1.medium.com)
 
-### Blogs posts
+# Blog posts
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
