@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Berke</h1>
+<h1 align="center">berkegokmen1</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=berkegokmen1&label=Profile%20views&color=0e75b6&style=flat" alt="berkegokmen1" /> </p>
 
 - 🔭 I’m currently working on **Castive**
