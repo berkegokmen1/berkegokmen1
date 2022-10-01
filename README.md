@@ -1,7 +1,7 @@
 <h1 align="center">berkegokmen1</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=berkegokmen1&label=Profile%20views&color=0e75b6&style=flat" alt="berkegokmen1" /> </p>
 
-- 🔭 I’m currently working on **Castive**
+- 🔭 I’m currently working at **Getir**
 
 - 🌱 I’m currently learning **Advanced authentication and security in NodeJS**
 
