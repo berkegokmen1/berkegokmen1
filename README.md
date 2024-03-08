@@ -23,10 +23,6 @@
   Email: ahmetber**gokme*@gmail.com (replace * with obvious letters)<br clear="both">
   Linkedin: https://www.linkedin.com/in/berkegokmen/<br clear="both">
   Medium: https://berkegokmen1.medium.com<br clear="both">
-  Upcoming writings:<br clear="both">
-    - How we built https://fe-ims.bilkent.edu.tr/ from ground up?<br clear="both">
-    - What are GANs and different approaches for inversion process, simply summarized.<br clear="both">
-  
 </div>
 
 ###
