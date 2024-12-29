@@ -13,7 +13,7 @@
 <br clear="both">
 
 <div>
-  Currently working on 3D Gan Inversion and Generative Models.
+  Currently working on 3D Generative Models and Diffusion Models.
   Previous interests: Linear Programming, Vehicle Routing, Backend Development, AWS & Cloud Services
 </div>
 
