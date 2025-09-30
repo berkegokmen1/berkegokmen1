@@ -13,7 +13,7 @@
 <br clear="both">
 
 <div>
-  Currently working on 3D/4 Generative Models and Video Diffusion Models.
+  Currently working on 3D/4D Generative Models and Video Diffusion Models.
   Previous interests: GANs, GAN Inversion, Linear Programming, Vehicle Routing, Backend Development, AWS & Cloud Services
 </div>
 
